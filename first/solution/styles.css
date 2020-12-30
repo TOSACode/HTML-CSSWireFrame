@@ -1,0 +1,33 @@
+
+.top{
+    background-color: gray;
+    box-sizing: border-box;
+    border: 5px solid black;
+    height: 10vh;
+}
+.right{
+    background-color: darkblue;
+    box-sizing: border-box;
+    border: 5px solid black;
+    width: 8vw;
+    height: 89vh;
+    
+}
+.left{
+    background-color: darkblue;
+    box-sizing: border-box;
+    border: 5px solid black;
+    width: 8vw;
+    float: right;
+    height: 89vh;
+}
+.bottom{
+    background-color: gray;
+    box-sizing: border-box;
+    border: 5px solid black;
+    height: 20vh;
+    position: absolute;
+    left:8.3vw;
+    bottom:.2vh;
+    width:83.4vw;
+}

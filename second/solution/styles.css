@@ -1,0 +1,73 @@
+
+h3{
+position: relative;
+bottom:25%;
+font-family:fantasy;
+font-size: 150px;
+text-shadow: 10px 10px grey;
+}
+img{
+position: relative;
+border-radius: 100%;
+border: 5px solid black;
+float:left;
+top:10vh;
+left:15vw;
+width: 450px;
+height: 450px;
+}
+
+.container-rec{
+position: relative;
+box-sizing: border-box;
+border: 5px solid black;
+top: 20vh;  
+background-color:darkgray;
+float: right;
+right:5vw;  
+width: 50vw;
+height: 20vh;
+}
+.vertical-rec{
+position: relative;
+box-sizing: border-box;
+border: 5px solid black;
+background-color:red; 
+top:35px;
+left:250px;
+width:2vw;
+height: 15vh;
+}
+.circle{
+position: relative;  
+box-sizing: border-box;
+border: 5px solid black;
+border-radius: 100%;
+background-color: aqua; 
+bottom:65px;
+left: 50px; 
+width:100px;
+height:100px;
+}
+.long-rec{
+position: relative;
+box-sizing: border-box;
+box-shadow: 10px 10px gray; 
+border: 5px solid black;
+background-color:black;
+top:50vh;
+left:40vw;
+height:5vh;;
+width:35vw;
+}
+.place-card{
+position: relative;
+box-sizing: border-box;
+box-shadow: 10px 10px 10px grey;
+border: 5px dotted black;
+background-color: rgb(220, 241, 241);
+top:55vh;
+left:15vw;
+width: 70vw;
+height: 35vh;
+}
